@@ -7,4 +7,6 @@ Other authors are included for reference and to see if you can find any writing 
 
 All words were set to lowercase. No proper nouns were removed. The files were scrubbed of intros, page numbers, etc. but it is possible some errant book markings were not taken out.
 
+A python script (and slightly altereed script for python3) are attached to get you started.
+
 Feel free to contact me (Ben Blatt) by emailing bbblatt AT gmail if you have any questions.
